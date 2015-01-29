@@ -18,5 +18,9 @@ target/
 .classpath
 .tern-project
 
+# Intellij Files
+.idea/
+*.iml
+
 # Ignore Linux temp files
 *~
