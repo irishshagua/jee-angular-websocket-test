@@ -13,10 +13,12 @@ hs_err_pid*
 
 # Eclipse files
 target/
+test-output/
 .settings/
 .project
 .classpath
 .tern-project
+
 
 # Intellij Files
 .idea/
